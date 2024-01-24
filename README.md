@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HMXRXQP8FHDQD8SPFY2VSKWB
-  version: v2.2
----
-
 # Spotify Clone con Astro
 
 ## Descripción
